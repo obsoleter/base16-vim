@@ -2,7 +2,7 @@
 " Scheme: Chris Kempson (http://chriskempson.com)
 
 " GUI color definitions
-let s:gui00 = "2d2d2d"
+let s:gui00 = "1d1f21"
 let s:gui01 = "393939"
 let s:gui02 = "515151"
 let s:gui03 = "747369"
